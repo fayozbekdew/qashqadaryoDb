@@ -1,0 +1,160 @@
+{
+    "regions": [
+        {
+            "id": "64",
+            "name": "chiroqchi",
+            "region": "qashqadaryo",
+            "population": "419 800",
+            "cetral":"chiroqchi",
+            "dencity":"150/",
+            "since":"1979 ",
+            "area": "2 840",
+            "img": "./images/region/qashqadaryo_chiroqchi.png",
+            "info": "Tuman bir shahar ( Chiroqchi ), 8 shahar tipidagi aholi punkti (Jar, Oʻymovut, Dam, Pakandi, Paxtaobod, Chiyal, Koʻkdala, Ayritom) va 20 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "65",
+            "name":"dexqonobod",
+            "region": "qashqadaryo",
+            "population": "149 800",
+            "cetral":"  qorashina",
+            "dencity":"37/",
+            "since":"1926 ",
+            "area": "4 000",
+            "img": "./images/region/qashqadaryo_dexqonobod.png",
+            "info": "Tuman 3 ta shahar tipidagi aholi punktlaridan ( Qorashina , Dehqonobod, Beshbuloq) iborat.) va 14 qishloq fuqarolar yigʻini. "
+        },
+        {
+            "id": "66",
+            "name": "g'uzor",
+            "region": "qashqadaryo",
+            "population": "207 700",
+            "cetral":"g'uzor",
+            "dencity":"78/",
+            "since":"1979 ",
+            "area": "2 660",
+            "img": "./images/region/qashqadaryo_guzor.png",
+            "info": "Tuman bir shahar ( Gʻuzor ), 5 shahar tipidagi aholi punkti (Jarariq, Obihayot, Yangikent, Sherali, Mashʼal) va 12 qishloq fuqarolar yigʻinidan iborat"
+        },
+        {
+            "id": "67",
+            "name":"qamashi",
+            "region": "qashqadaryo",
+            "population": "274 600",
+            "cetral":"qamashi",
+            "dencity":"100/",
+            "since":"1926 ",
+            "area": "2 660",
+            "img": "./images/region/qashqadaryo_qamashi.png",
+            "info": "Tuman bir shahar ( Qamashi ), 5 shahar tipidagi aholi punkti (Balandchaylo, Qoratepa, Qiziltepa, Sarbozor, Badahshon) va 11 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "68",
+            "name": "qarshi",
+            "region": "qashqadaryo",
+            "population": "252 600",
+            "cetral":"beshkent",
+            "dencity":"280/",
+            "since":"1979 ",
+            "area": "910",
+            "img": "./images/region/qashqadaryo_qarshi.png",
+            "info": "Tuman bir shahar ( Beshkent ), 15 shahar tipidagi aholi punkti (Fayzobod, Saroy, Gʻubdin, Lagʻmon, Kuchkak, Xonobod, Shilvi, Qovchin, Nuqrabod, Yertepa, Navroʻz, Jumabozor, Mustaqillik, Mirmiron Yangi xayot) va 15 ta qishloq jamoalari. "
+        },
+        {
+            "id": "69",
+            "name": "koson",
+            "region": "qashqadaryo",
+            "population": "290 600",
+            "cetral":"koson",
+            "dencity":"150/",
+            "since":"1979 ",
+            "area": "1 880",
+            "img": "./images/region/qashqadaryo_koson.png",
+            "info": "Tuman bir shahar ( Koson ), 14 shahar tipidagi aholi punkti (Boygʻundi, Boyterak, Guvalak, Istiqlol, Qoʻyi Obron, Mudin, Oqtepa, Obod, Pudina, Poʻlati, Rahimsoʻfi, Surxon, Toʻlgʻa, Esaboy) va 9 tadan iborat. qishloq jamoalari"
+        },
+        {
+            "id": "70",
+            "name": "kasbi",
+            "region": "qashqadaryo",
+            "population": "199 800",
+            "cetral":"mug'lon",
+            "dencity":"310/",
+            "since":"1979 ",
+            "area": "650",
+            "img": "./images/region/qashqadaryo_kasbi.png",
+            "info": "Tuman 9 shahar tipidagi aholi punkti ( Mugʻlon , Denov, Kasbi, Doʻstlik, Yangi qishloq, Xoʻjakasbi, Fazli, Maymanoq, Qatagʻan) va 10 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "71",
+            "name": "kitob",
+            "region": "qashqadaryo",
+            "population": "266 400",
+            "cetral":"kitob",
+            "dencity":"150/",
+            "since":"",
+            "area": "1 750",
+            "img": "./images/region/qashqadaryo_kitob.png",
+            "info": "Tuman bir shahar ( Kitob ), 13 shahar tipidagi aholi punkti (Alaqoʻyliq, Bektemir, Rus qishloq, Baxtdarvozasi, Beshterak, Varganza, Obikanda, Panji, Sariosiyo, Sevaz, Xoji, Yakkatut, Yangiobod) va 12 qishloq fuqarolar yigʻinidan iborat. ."
+        },
+        {
+            "id": "72",
+            "name": "mirishkor",
+            "region": "qashqadaryo",
+            "population": "121 500",
+            "cetral":"yangi Mirishkor",
+            "dencity":"38/",
+            "since":"",
+            "area": "3 210",
+            "img": "./images/region/qashqadaryo_mirishkor.png",
+            "info": "Tuman 3 ta shahar tipidagi aholi punktidan iborat ( Yangi Mirishkor, Jeynov, Pomuq) va 12 qishloq fuqarolar yigʻini. [1] Turkmaniston , Buxoro viloyati , Muborak tumani , Kasbi tumani , Nishon tumani bilan chegaradosh ."
+        },
+        {
+            "id": "73",
+            "name": "muborak",
+            "region": "qashqadaryo",
+            "population": "88 200",
+            "cetral":"muborak",
+            "dencity":"29/",
+            "since":"",
+            "area": "3 070",
+            "img": "./images/region/qashqadaryo_muborak.png",
+            "info": "Tuman bir shahar ( Muborak ), 5 shahar tipidagi aholi punkti (Qarliq, Baxt, Qoraqum, Diyonat, Shayx) va 4 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "74",
+            "name": "nishon",
+            "region": "qashqadaryo",
+            "population": "155 500",
+            "cetral":"yangi Nishon",
+            "dencity":"74/",
+            "since":"",
+            "area": "2 110",
+            "img": "./images/region/qashqadaryo_nishon.png",
+            "info": "Tuman ikki shahar ( Yangi Nishon va Tallimarjon ), 9 shahar tipidagi aholi punkti ( Nuriston , Nishon, Guliston, Oq oltin, Sardoba, Paxtachi, Oydin, Samarqand, Paxtaobod) va 8 qishloq fuqarolar yigʻinidan iborat."
+        },
+        {
+            "id": "75",
+            "name": "shahrishabz",
+            "region": "qashqadaryo",
+            "population": "223 800",
+            "cetral":"shahrishabz",
+            "dencity":"140/",
+            "since":"",
+            "area": "1 620",
+            "img": "./images/region/qashqadaryo_shahrishabz.png",
+            "info": "Tuman 13 ta shahar tipidagi aholi punkti ( Miroqi , Qumqishloq, Oʻrtaqoʻrgʻon, Chorshanbe, Temirchi, Yangiqishloq, Qutchi, Shamaton , Ammogʻon-1, Qoʻshqonot, Anday, Xoʻjaxuroson, Keldihayot) va 12 qishloq fuqarolar yigʻinidan iborat ."
+        },
+        {
+            "id": "76",
+            "name": "yakkabo'g'",
+            "region": "qashqadaryo",
+            "population": "266 100",
+            "cetral":"yakkabo'g'",
+            "dencity":"240/",
+            "since":"",
+            "area": "1 110",
+            "img": "./images/region/qashqadaryo_yakkabog.png",
+            "info": "Tuman bir shahar ( Yakkabogʻ ), 14 shahar tipidagi aholi punktlaridan ( Eski Yakkabogʻ , Alaqargʻa , Alaqoʻyloq , Jarqirgʻiz , Qayragʻoch , Qatagʻon , Kattabogʻ , Madaniyat , Mevazor , Samoq , Turon , Oʻz , Chubron ) va 9 dan iborat. qishloq jamoalari."
+        }
+    ]
+}
